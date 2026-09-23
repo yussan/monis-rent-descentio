@@ -1,3 +1,7 @@
+# Monis Rent - Descent.io Take Home Test
+
+![monis rent for descent.io preview](https://res.cloudinary.com/dhjkktmal/image/upload/v1790132436/github/monis-rent-descent.io/Screenshot_2026-09-23_at_09.57.56.png)
+
 This project built for coding test for "Descent.io".
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
